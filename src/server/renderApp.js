@@ -8,6 +8,7 @@ const renderApp= () =>
 <body>
   <h3>Hello from express</h3>
   <div id="app"></div>
+  <script src="http://localhost:8000/dist/js/bundle.js"></script>
 </body>
 </html>
 `
